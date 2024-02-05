@@ -1,14 +1,17 @@
 .cabecalho {
     display: flex;
+
 }
 
 .cabecalho_logo {
     display: flex;
     align-items: center;
+    padding: 10px;
 }
 
 .cabecalho_lista{
     display: flex;
     align-items: center;
     justify-content: space-around;
+    padding: 5px;
 }

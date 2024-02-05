@@ -50,7 +50,7 @@
 
 .conteudo{
     display: flex;
-    align-items: center;
+    align-items: baseline;
     justify-content: space-around;
     padding-top: 40px;
     background: linear-gradient(0deg,  #011a98c0 0%, #405ce7 80%);

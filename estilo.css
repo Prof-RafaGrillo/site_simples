@@ -55,3 +55,9 @@
 .conteudo_item{
    text-align: center;
 }
+
+
+.conteudo_item-imagem{
+    width: 100px;
+    border-radius: 50%;
+}

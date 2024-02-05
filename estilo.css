@@ -1,3 +1,11 @@
 .cabecalho {
     display: flex;
 }
+
+.cabecalho_logo {
+    display: flex;
+}
+
+.cabecalho_lista{
+    display: flex;
+}

@@ -32,6 +32,9 @@
 .banner{
     display: flex;
 }
+.banner_texto{
+    padding: 50px;
+}
 
 .banner_imagem{
     width: 10%;

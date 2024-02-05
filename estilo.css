@@ -31,12 +31,14 @@
 
 .banner{
     display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
 .banner_texto{
     padding: 50px;
 }
 
 .banner_imagem{
-    width: 10%;
+    width: 40%;
 }
 

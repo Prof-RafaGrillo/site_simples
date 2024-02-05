@@ -16,6 +16,7 @@
     align-items: center;
     justify-content: space-around;
     padding: 5px;
+    text-decoration: none;
 }
 .cabecalho_lista-item{
     margin-left: 10px;

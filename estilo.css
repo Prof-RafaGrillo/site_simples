@@ -9,6 +9,12 @@
     align-items: center;
     padding: 10px;
     margin-right: 10px;
+
+}
+
+.logo_imagem{
+    margin-right: 10px;
+    width: 70%;
 }
 
 .cabecalho_lista{

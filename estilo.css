@@ -51,6 +51,7 @@
     align-items: center;
     justify-content: space-around;
     padding-top: 50px;
+    background: linear-gradient(0deg, #75b3ee 0%, #011b98 100%);
 }
 
 .conteudo_item{

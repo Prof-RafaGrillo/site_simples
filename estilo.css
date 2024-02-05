@@ -1,7 +1,7 @@
 .cabecalho {
     display: flex;
     padding: auto;
-
+    background-color: rgb(117, 179, 238);
 }
 
 .cabecalho_logo {

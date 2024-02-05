@@ -35,6 +35,7 @@
     justify-content: space-around;
     padding: 50px;
     background: linear-gradient(0deg, #405ce7 0%, #75b3ee 100%);
+    font-size: 24px;
 
 }
 .banner_texto{
@@ -50,8 +51,8 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
-    padding-top: 50px;
-    background: linear-gradient(0deg,  #011b98 0%, #405ce7 80%);
+    padding-top: 40px;
+    background: linear-gradient(0deg,  #011a98c0 0%, #405ce7 80%);
 }
 
 .conteudo_item{
@@ -67,7 +68,7 @@
 .rodape{
     margin-top: 0;
     text-align: center;
-    background-color: #011b98;
+    background-color: #011b98c0;
     padding: 20px;
     color: white;
     font-size: 24px;
